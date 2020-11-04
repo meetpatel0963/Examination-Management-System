@@ -1,0 +1,388 @@
+Which one of the following are essential features of object oriented language?
+$
+   i. Abstraction and encapsulation
+$
+   ii. Strictly-typed
+$
+   iii. Type-safe property coupled with sub-type rule
+$
+   iv. Polymorphism in the presence of inheritance
+$
+A) i and ii only
+$
+B) i, ii and iv only
+$
+C) i and iv only
+$
+D) i, iii and iv only
+$
+@
+YOUR ANSWER: D
+$
+CORRECT ANSWER: C
+$
+@
+@
+The feature in object-oriented programming that allows the same operation to be carried out differently, depending on the object, is:
+$
+A) Inheritance
+$
+B) Polymorphism
+$
+C) Overfunctioning
+$
+D) Overriding
+$
+@
+YOUR ANSWER: D
+$
+CORRECT ANSWER: B
+$
+@
+@
+Consider the following two statements:
+$
+   (1)A publicly derived class is a subtype of its base class.
+$
+   (2)Inheritance provides for code reuse.
+$
+A) Both the statements (1) and (2) are correct.
+$
+B) Neither of the statements (1) and (2) are correct.
+$
+C) Statement (1) is correct and (2) is incorrect.
+$
+D) Statement (2) is correct and (1) is incorrect.
+$
+@
+YOUR ANSWER: D
+$
+CORRECT ANSWER: A
+$
+@
+@
+Converting a primitive type data into its corresponding wrapper class object instance is called:
+$
+A) Boxing
+$
+B) Wrapping
+$
+C) Instantiation
+$
+D) Autoboxing
+$
+@
+YOUR ANSWER: D
+$
+CORRECT ANSWER: D
+$
+@
+@
+Which of the following is associated with Objects?
+$
+A) State
+$
+B) Behaviour
+$
+C) Identity
+$
+D) All of the above
+$
+@
+YOUR ANSWER: D
+$
+CORRECT ANSWER: D
+$
+@
+@
+Which one of the following are essential features of object oriented language?
+$
+   i. Abstraction and encapsulation
+$
+   ii. Strictly-typed
+$
+   iii. Type-safe property coupled with sub-type rule
+$
+   iv. Polymorphism in the presence of inheritance
+$
+A) i and ii only
+$
+B) i, ii and iv only
+$
+C) i and iv only
+$
+D) i, iii and iv only
+$
+@
+YOUR ANSWER: A
+$
+CORRECT ANSWER: C
+$
+@
+@
+Consider the following two statements:
+$
+   (1)A publicly derived class is a subtype of its base class.
+$
+   (2)Inheritance provides for code reuse.
+$
+A) Both the statements (1) and (2) are correct.
+$
+B) Neither of the statements (1) and (2) are correct.
+$
+C) Statement (1) is correct and (2) is incorrect.
+$
+D) Statement (2) is correct and (1) is incorrect.
+$
+@
+YOUR ANSWER: B
+$
+CORRECT ANSWER: A
+$
+@
+@
+The feature in object-oriented programming that allows the same operation to be carried out differently, depending on the object, is:
+$
+A) Inheritance
+$
+B) Polymorphism
+$
+C) Overfunctioning
+$
+D) Overriding
+$
+@
+YOUR ANSWER: C
+$
+CORRECT ANSWER: B
+$
+@
+@
+Converting a primitive type data into its corresponding wrapper class object instance is called:
+$
+A) Boxing
+$
+B) Wrapping
+$
+C) Instantiation
+$
+D) Autoboxing
+$
+@
+YOUR ANSWER: D
+$
+CORRECT ANSWER: D
+$
+@
+@
+Which of the following is associated with Objects?
+$
+A) State
+$
+B) Behaviour
+$
+C) Identity
+$
+D) All of the above
+$
+@
+YOUR ANSWER: D
+$
+CORRECT ANSWER: D
+$
+@
+@
+Converting a primitive type data into its corresponding wrapper class object instance is called:
+$
+A) Boxing
+$
+B) Wrapping
+$
+C) Instantiation
+$
+D) Autoboxing
+$
+@
+YOUR ANSWER: D
+$
+CORRECT ANSWER: D
+$
+@
+@
+Which of the following is associated with Objects?
+$
+A) State
+$
+B) Behaviour
+$
+C) Identity
+$
+D) All of the above
+$
+@
+YOUR ANSWER: D
+$
+CORRECT ANSWER: D
+$
+@
+@
+Which one of the following are essential features of object oriented language?
+$
+   i. Abstraction and encapsulation
+$
+   ii. Strictly-typed
+$
+   iii. Type-safe property coupled with sub-type rule
+$
+   iv. Polymorphism in the presence of inheritance
+$
+A) i and ii only
+$
+B) i, ii and iv only
+$
+C) i and iv only
+$
+D) i, iii and iv only
+$
+@
+YOUR ANSWER: D
+$
+CORRECT ANSWER: C
+$
+@
+@
+The feature in object-oriented programming that allows the same operation to be carried out differently, depending on the object, is:
+$
+A) Inheritance
+$
+B) Polymorphism
+$
+C) Overfunctioning
+$
+D) Overriding
+$
+@
+YOUR ANSWER: D
+$
+CORRECT ANSWER: B
+$
+@
+@
+Consider the following two statements:
+$
+   (1)A publicly derived class is a subtype of its base class.
+$
+   (2)Inheritance provides for code reuse.
+$
+A) Both the statements (1) and (2) are correct.
+$
+B) Neither of the statements (1) and (2) are correct.
+$
+C) Statement (1) is correct and (2) is incorrect.
+$
+D) Statement (2) is correct and (1) is incorrect.
+$
+@
+YOUR ANSWER: D
+$
+CORRECT ANSWER: A
+$
+@
+@
+Which one of the following are essential features of object oriented language?
+$
+   i. Abstraction and encapsulation
+$
+   ii. Strictly-typed
+$
+   iii. Type-safe property coupled with sub-type rule
+$
+   iv. Polymorphism in the presence of inheritance
+$
+A) i and ii only
+$
+B) i, ii and iv only
+$
+C) i and iv only
+$
+D) i, iii and iv only
+$
+@
+YOUR ANSWER: D
+$
+CORRECT ANSWER: C
+$
+@
+@
+Consider the following two statements:
+$
+   (1)A publicly derived class is a subtype of its base class.
+$
+   (2)Inheritance provides for code reuse.
+$
+A) Both the statements (1) and (2) are correct.
+$
+B) Neither of the statements (1) and (2) are correct.
+$
+C) Statement (1) is correct and (2) is incorrect.
+$
+D) Statement (2) is correct and (1) is incorrect.
+$
+@
+YOUR ANSWER: D
+$
+CORRECT ANSWER: A
+$
+@
+@
+Converting a primitive type data into its corresponding wrapper class object instance is called:
+$
+A) Boxing
+$
+B) Wrapping
+$
+C) Instantiation
+$
+D) Autoboxing
+$
+@
+YOUR ANSWER: D
+$
+CORRECT ANSWER: D
+$
+@
+@
+The feature in object-oriented programming that allows the same operation to be carried out differently, depending on the object, is:
+$
+A) Inheritance
+$
+B) Polymorphism
+$
+C) Overfunctioning
+$
+D) Overriding
+$
+@
+YOUR ANSWER: D
+$
+CORRECT ANSWER: B
+$
+@
+@
+Which of the following is associated with Objects?
+$
+A) State
+$
+B) Behaviour
+$
+C) Identity
+$
+D) All of the above
+$
+@
+YOUR ANSWER: D
+$
+CORRECT ANSWER: D
+$
+@
+@
